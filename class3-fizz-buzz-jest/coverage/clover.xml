@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1563313215567" clover="3.2.0">
+  <project timestamp="1563313215567" name="All files">
+    <metrics statements="28" coveredstatements="28" conditionals="7" coveredconditionals="7" methods="4" coveredmethods="4" elements="39" coveredelements="39" complexity="0" loc="28" ncloc="28" packages="1" files="1" classes="1"/>
+    <file name="index.js" path="/Users/jakeshams/Code/ProductCollege/FEW/few21/inclass/fizz-buzz-jest/index.js">
+      <metrics statements="28" coveredstatements="28" conditionals="7" coveredconditionals="7" methods="4" coveredmethods="4"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="14" count="133" type="stmt"/>
+      <line num="23" count="133" type="stmt"/>
+      <line num="32" count="128" type="stmt"/>
+      <line num="33" count="128" type="cond" truecount="2" falsecount="0"/>
+      <line num="34" count="128" type="cond" truecount="2" falsecount="0"/>
+      <line num="35" count="128" type="stmt"/>
+      <line num="44" count="4" type="stmt"/>
+      <line num="45" count="4" type="stmt"/>
+      <line num="46" count="123" type="stmt"/>
+      <line num="47" count="123" type="cond" truecount="3" falsecount="0"/>
+      <line num="49" count="32" type="stmt"/>
+      <line num="50" count="32" type="stmt"/>
+      <line num="52" count="17" type="stmt"/>
+      <line num="53" count="17" type="stmt"/>
+      <line num="55" count="7" type="stmt"/>
+      <line num="56" count="7" type="stmt"/>
+      <line num="59" count="4" type="stmt"/>
+      <line num="62" count="1" type="stmt"/>
+      <line num="63" count="1" type="stmt"/>
+      <line num="64" count="1" type="stmt"/>
+      <line num="65" count="1" type="stmt"/>
+      <line num="66" count="1" type="stmt"/>
+      <line num="67" count="1" type="stmt"/>
+      <line num="68" count="1" type="stmt"/>
+      <line num="69" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
