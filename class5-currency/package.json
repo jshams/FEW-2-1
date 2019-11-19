@@ -1,0 +1,30 @@
+{
+  "name": "currency-methods",
+  "version": "1.0.0",
+  "description": "Library for currency operations to handle JS rounding errors",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshams/currency-conversions.git"
+  },
+  "keywords": [
+    "js",
+    "money",
+    "conversion"
+  ],
+  "author": "Jake Shams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jshams/currency-conversions/issues"
+  },
+  "homepage": "https://github.com/jshams/currency-conversions#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
